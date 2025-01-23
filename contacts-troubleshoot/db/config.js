@@ -1,5 +1,5 @@
 require('dotenv').config();
-var util = require('util');
+var util =require('util');
 
 // The following variables should be defined in the
 // secret resource associated with the database.
